@@ -1,0 +1,21 @@
+{
+    "name": "TMPTextOnPath.Editor",
+    "rootNamespace": "TMPTextOnPath.Editor",
+    "references": [
+        "TMPTextOnPath",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.Splines"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": false,
+    "versionDefines": [
+        {
+            "name": "com.unity.splines",
+            "expression": "2.0.0",
+            "define": "TEXTONPATH_SPLINES"
+        }
+    ]
+}

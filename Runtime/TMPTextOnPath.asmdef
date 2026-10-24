@@ -1,0 +1,18 @@
+{
+    "name": "TMPTextOnPath",
+    "rootNamespace": "TMPTextOnPath",
+    "references": [
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.Splines",
+        "Unity.Mathematics"
+    ],
+    "autoReferenced": true,
+    "versionDefines": [
+        {
+            "name": "com.unity.splines",
+            "expression": "2.0.0",
+            "define": "TEXTONPATH_SPLINES"
+        }
+    ]
+}

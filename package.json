@@ -1,0 +1,8 @@
+{
+  "name": "com.textonpath.tmp",
+  "displayName": "TMP Text On Path",
+  "version": "1.1.0",
+  "unity": "2021.3",
+  "description": "Makes TextMesh Pro text (3D or UI) follow a configurable path: circle, ellipse, arc, line, wave, AnimationCurve, Bezier, Unity Splines, or the path of another text. Similar to Figma's Text on Path.",
+  "keywords": ["textmeshpro", "tmp", "text", "path", "curve", "circle", "bezier", "spline"]
+}
